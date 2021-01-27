@@ -1,0 +1,25 @@
+{
+  "name": "vuepress-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.8.0",
+    "core-js": "2.6.11",
+    "moment": "^2.29.1",
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-img-lazy": "^1.0.4",
+    "vuepress-plugin-reading-progress": "^1.0.10",
+    "vuepress-plugin-smooth-scroll": "^0.0.10",
+    "vuepress-theme-antdocs": "^1.2.2"
+  }
+}
