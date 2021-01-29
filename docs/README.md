@@ -2,7 +2,7 @@
 home: true
 actionText: 了解更多 →
 heroImage: https://wx-xly-1301545895.cos.ap-beijing.myqcloud.com/my-website/logo.png
-footer: 这是页脚
+footer: 什么队都可以队
 heroImageStyle: # 首页主图的样式控制，默认被注释
   {
     maxWidth: "600px",
